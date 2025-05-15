@@ -1,0 +1,13 @@
+* {
+    --deep-purple: #920077;
+    --bright-pink: #FDEEFA;
+};
+
+html, body {
+    background-color: black;
+    font-family: "Geologica", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: white;
+    font-variation-settings: "wght" 400;
+};
